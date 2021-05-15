@@ -16,7 +16,23 @@ p {
   line-height: 2rem;
 }
 
-.main-logo {
+.seafoam {
+  color: #61dedb !important;
+}
+
+.seafoam-bg {
+  background-color: #61dedb !important;
+}
+
+.animate-to-seafoam {
+  transition: color 1s;
+}
+
+.animate-to-seafoam:hover {
+  color: #61dedb !important;
+}
+
+.dancing-script {
   font-family: 'Dancing Script';
 }
 
