@@ -18,11 +18,11 @@ p {
 }
 
 .seafoam {
-  color: #61dedb !important;
+  color: #00afac !important;
 }
 
 .seafoam-bg {
-  background-color: #61dedb !important;
+  background-color: #00afac !important;
 }
 
 .animate-to-seafoam {
@@ -30,7 +30,7 @@ p {
 }
 
 .animate-to-seafoam:hover {
-  color: #61dedb !important;
+  color: #00afac !important;
 }
 
 .parisienne {
